@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomBackgroundColor</string>
+    <string name="change_background_color_txt">Change background color</string>
+</resources>
